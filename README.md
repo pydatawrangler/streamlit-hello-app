@@ -1,5 +1,6 @@
 # streamlit-hello-app
 Our very first streamlit app deployed on heroku
+https://streamlit-uber-app.herokuapp.com/
 
 ## Instructions
 1. Create a repository on github and clone in your PC
@@ -39,4 +40,8 @@ Our very first streamlit app deployed on heroku
 9. Push to heroku
     ```
     git push heroku master
+    ```
+10. Push to github
+    ```
+    git push
     ```
