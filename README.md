@@ -26,8 +26,17 @@ Our very first streamlit app deployed on heroku
     " > ~/.streamlit/config.toml
     ```
 
-7. heroku login
-   heroku create
-   git add .
-   git commit -m "Some message"
-   git push heroku master
+7. Create app in Heroku
+    ```
+    heroku login
+    heroku create *name-of-app*
+    ```
+8. Git commit
+    ```
+    git add .
+    git commit -m "Some message"
+    ```
+9. Push to heroku
+    ```
+    git push heroku master
+    ```
